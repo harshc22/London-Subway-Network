@@ -1,7 +1,4 @@
 ## Header information:
 
-  - Author #1: Krish Patel (patek74@mcmaster.ca)
-  - Author #2: Harsh Chinjer (chinjerh@mcmaster.ca)
-  - Gitlab URL: https://gitlab.cas.mcmaster.ca/patek74/l1-graph-lab
-  - Avenue to Learn group name: Group 21
+-Architected a modular, objected-oriented graph library that models London Subway Network in Python from CSV file data while adhering to SOLID design principles-Extended the project by implementing Dijkstra’s algorithm and A Star algorithm to detect the shortest path between stations-Constructed a set of 15+ tests, and UML diagrams for the modules and benchmarked the algorithms using execution time, nodes transversed for analysis
   
